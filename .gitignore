@@ -1,6 +1,7 @@
 /node_modules
 /.idea
 *.iml
+/vendor
 
 /.web-server-pid
 /app/config/parameters.yml
